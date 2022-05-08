@@ -13,5 +13,5 @@ If a valid length is not inputted or if there is no selection of the type of cha
 S/O to UCLA Extension for providing the basic HTML and CSS layout.
 
 Link to website: 
-
+https://jhan2021.github.io/uclaext-week3-challenge/
 
