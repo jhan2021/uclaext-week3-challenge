@@ -8,7 +8,7 @@ Users can select if they would like lowercase, uppercase letters, numbers, and/o
 Warning:
 If a valid length is not inputted or if there is no selection of the type of characters, an error will appear. 
 
-![Screenshot](screenshot.jpg)
+![Screenshot](preview.PNG)
 
 S/O to UCLA Extension for providing the basic HTML and CSS layout.
 
